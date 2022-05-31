@@ -1,0 +1,15 @@
+artifact_uri: file:///home/caoba/Documentos/cursos/mlops%20zoomcamp/mlops_zoomcamp/week_02/homework/mlruns/1/f2b491ea75a14d8cb882b1d391d3d072/artifacts
+end_time: 1653868106392
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f2b491ea75a14d8cb882b1d391d3d072
+run_uuid: f2b491ea75a14d8cb882b1d391d3d072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653868090660
+status: 3
+tags: []
+user_id: caoba

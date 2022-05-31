@@ -1,0 +1,4 @@
+artifact_location: file:///home/caoba/Documentos/cursos/mlops%20zoomcamp/mlops_zoomcamp/week_02/homework/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: random-forest-hyperopt
