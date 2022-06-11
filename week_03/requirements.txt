@@ -6,5 +6,4 @@ seaborn
 hyperopt
 xgboost
 fastparquet
-boto3
 prefect==2.0b5
